@@ -8,7 +8,7 @@ This command below watches the dummy JSON file which is imitating a database.
 This command runs the project.
 ### `npm run start`
 
-Runs the app in the development mode.\
+Once commands are complete use the links below to open the application in your browser.
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.
