@@ -1,4 +1,6 @@
-# Getting Started with the blog
+# Blog Demo
+
+This is a simple blog site using React to learn the basics.
 
 In the project directory, you can run these commands to view the blog:
 
